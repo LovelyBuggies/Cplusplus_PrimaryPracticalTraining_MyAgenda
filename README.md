@@ -1,7 +1,9 @@
 # Cplusplus_PrimaryPracticalTraining_MyAgenda
 
 > Practical Training for freshmen of SDCS, SYSU. 
+
 > Directed by Maolin Pan, SDCS, SYSU. 
+
 > Author Nino Lau.
 
 ## Introduce
