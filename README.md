@@ -48,7 +48,7 @@ MyAgenda architecture can be represented by three layers: **Data Layer**, **Logi
 |   +-- test.pdf
 +-- README.md
 
-## Usage
+## Demo
 
-Usage and Techs shown in *./document/Feelings.pdf* and *./test/test.pdf*.
+See project demo at https://github.com/LovelyBuggies/Cplusplus_PrimaryPracticalTraining_MyAgenda/blob/master/test/test.pdf .
 
